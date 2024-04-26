@@ -7,7 +7,7 @@ import logo from '../../assets/logo.png'
 const Menu = () => (
     <>
         <p><a href='#home'>Home</a></p>
-        <p><a href='#wgpt3'>What is 40k</a></p>
+        <p><a href='#whgpt3'>What is 40k</a></p>
         <p><a href='#possibility'>Open Your Mind</a></p>
         <p><a href='#features'>Case Studies</a></p>
         <p><a href='#blog'>Library</a></p>
