@@ -26,9 +26,9 @@ const Features = () => {
         <div className='gpt3__features section__padding' id='features'>
             <div className='gpt3__features-heading'>
                 <h1 className='gradient__text'>
-                    O Exército pode passar cem anos sem ser usado, mas não pode passar um minuto sem estar preparado.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ab, voluptatem exercitationem iste nemo
                 </h1>
-                <p>Solicite a entrada no exército</p>
+                <p>Request Early Access</p>
             </div>
             <div className='gpt3__features-container'>
                 {featuresData.map((item, index) => (

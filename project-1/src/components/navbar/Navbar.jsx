@@ -2,12 +2,12 @@ import React, { useState } from 'react'
 
 import { RiMenu2Line, RiCloseLine } from "react-icons/ri";
 import './navbar.css'
-import logo from '../../assets/logo.png'
+import logo from '../../assets/logo.svg'
 
 const Menu = () => (
     <>
         <p><a href='#home'>Home</a></p>
-        <p><a href='#whgpt3'>What is 40k</a></p>
+        <p><a href='#whgpt3'>What is GPT-3</a></p>
         <p><a href='#possibility'>Open Your Mind</a></p>
         <p><a href='#features'>Case Studies</a></p>
         <p><a href='#blog'>Library</a></p>
